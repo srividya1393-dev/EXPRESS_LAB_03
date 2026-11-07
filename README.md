@@ -11,7 +11,7 @@
 
 ## 2. Deployment URL
 
-**Live Application:** https://render.com/docs/node-version
+**Live Application:** https://express-lab-03.onrender.com/
 
 ## 3. Objective
 
